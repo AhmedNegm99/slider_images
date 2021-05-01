@@ -1,11 +1,12 @@
 body{
-    background-color: brown;
+    background-color:white;
 }
 
 
 .caption{
     position: absolute;
     bottom: 20px;
+    font-family: serif;
     
     left: 10%;
     width: 80%;
